@@ -2,11 +2,17 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Oliver Laslett
+tagline:             Research blog
+url:                 http://laslett.xyz
 paginate:            1
 baseurl:             ""
+
+# Links for the header
+header_links:
+  About: '/about'
+  Talks: '/talks'
+  Posts: '/posts'
 
 # Assets
 #
@@ -17,14 +23,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Oliver Laslett
+  url:               https://twitter.com/oliverlaslett
+  email:             o.laslett@soton.ac.uk
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/owlas/owlas.github.io.git
 
 # Gems
 gems:
