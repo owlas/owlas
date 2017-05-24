@@ -1,6 +1,9 @@
 # Permalinks
 permalink:           pretty
 
+# Asthetic
+highlighter: pygments
+
 # Setup
 title:               Oliver Laslett
 tagline:             Research blog

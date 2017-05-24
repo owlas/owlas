@@ -30,9 +30,9 @@ command line:
 
 ``` markdown
 [I 11:43:06.097 NotebookApp] 0 active kernels
-[I 11:43:06.097 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
-[W 11:43:06.509 NotebookApp] /path/to/some/file doesn't exist
-[I 11:43:19.053 NotebookApp] Kernel started: b3a28561-eb8a-43a2-8c25-f08e02c32eff
+[I 11:43:06.097 NotebookApp] The Jupyter Notebook i...
+[W 11:43:06.509 NotebookApp] /path/to/some/file doe...
+[I 11:43:19.053 NotebookApp] Kernel started: b3a285...
 ```
 
 I just copied this from my terminal and created a one-column DataFrame like this:
@@ -50,7 +50,8 @@ message for each of the log entries. We tage each group with
 
 ``` python
 df.logs.str.extract(
-    r"\[(?P<level>\w)(?P<timestamp>\d*\:\d*\:\d*\.\d*) (?:NotebookApp]) (?P<message>.*)",
+    r"\[(?P<level>\w)(?P<timestamp>\d*\:\d*\:\d*\.\d*)"
+    r" (?:NotebookApp]) (?P<message>.*)",
     expand=True)
 ```
 
