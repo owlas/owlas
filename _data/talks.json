@@ -1,0 +1,66 @@
+[
+    {
+        "date": "05 May 2017",
+        "location": "London, UK",
+        "title": "One workshop data scientists don't want you to attend...",
+        "tag": "datascience",
+        "links" : [
+            {
+                "name": "code",
+                "url": "https://github.com/cytora/clickbait-workshop"
+            },
+            {
+                "name": "video",
+                "url": "https://www.youtube.com/watch?v=NfaHA17CxrI&"
+            }
+        ]
+    },
+    {
+        "date": "22 March 2017",
+        "location": "Dresden, Germany",
+        "title": "Optimising applied magnetic field waveform for hyperthermia",
+        "tag": "physics"
+    },
+    {
+        "date": "22 February 2017",
+        "location": "Southampton, UK",
+        "title": "Soton Quants: Trading theory pt.2 - Risk and Reward",
+        "tag": "finance"
+    },
+    {
+        "date": "08 February 2017",
+        "location": "Southampton, UK",
+        "title": "Soton Quants: Trading theory pt.1 - Electronic Markets",
+        "tag": "finance",
+        "links": [{
+            "name": "slides",
+            "link": "https://www.slideshare.net/OliverLaslett/quant-trading-theory-series-electronic-markets?trk=v-feed"
+        }]
+    },
+    {
+        "date": "17 October 2017",
+        "location": "Southampton, UK",
+        "title": "Soton Quants: Introduction to quant finance",
+        "tag": "finance",
+        "links": [
+            {
+                "name": "slides",
+                "link": "http://www.slideshare.net/OliverLaslett/soton-quants-welcome"
+            },
+            {
+                "name": "code",
+                "link": "https://gist.github.com/owlas/cd0d153b75988882be81f8ddc7f304ad"
+            }
+        ]
+    },
+    {
+        "date": "14 March 2016",
+        "location": "Bormio, Italy",
+        "title": "Effect of trapezoidal wave rise-time on power dissipation for magnetic hyperthermia",
+        "tag": "physics",
+        "links": [{
+            "name": "slides",
+            "link": "https://github.com/owlas/aim16"
+        }]
+    }
+]
