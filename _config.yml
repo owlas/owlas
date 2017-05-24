@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Asthetic
-highlighter: pygments
+highlighter: rouge
 
 # Setup
 title:               Oliver Laslett
