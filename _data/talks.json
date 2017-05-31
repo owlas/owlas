@@ -1,5 +1,17 @@
 [
     {
+        "date": "30 May 2017",
+        "location": "Barcelona, Spain",
+        "title": "Effect of magnetic field waveform on the efficiency of magnetic particle hyperthermia",
+        "tag": "physics",
+        "links": [
+            {
+                "name": "slides",
+                "url": "https://docs.google.com/presentation/d/1rDVsH-3yzi50p-7m0_hf0AgWmRd5d1xsbovRCNxmj0s/edit?usp=sharing"
+            }
+        ]
+    },
+    {
         "date": "05 May 2017",
         "location": "London, UK",
         "title": "One workshop data scientists don't want you to attend...",
