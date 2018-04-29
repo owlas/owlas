@@ -1,5 +1,29 @@
 [
     {
+	"date": "28 April 2018",
+	"location": "London, UK",
+	"title": "Fairness in machine learning",
+	"tag": "fairness",
+	"links": [
+	    {
+		"name": "slides",
+		"url": "https://docs.google.com/presentation/d/1SNYD0AYuxXYR1kd9tx-HtPAjkZks77UXo62DXSGBgE0/edit?usp=sharing"
+	    }
+	]
+    },
+    {
+	"date": "26 June 2017",
+	"location": "London, UK",
+	"title": "Attention mechanisms in deep learning",
+	"tag": "datascience",
+	"links": [
+	    {
+		"name": "details",
+		"url": "https://www.meetup.com/London-Data-Science-Journal-Club/events/240552912/"
+	    }
+	]
+    },
+    {
         "date": "30 May 2017",
         "location": "Barcelona, Spain",
         "title": "Effect of magnetic field waveform on the efficiency of magnetic particle hyperthermia",
