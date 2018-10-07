@@ -1,5 +1,29 @@
 [
     {
+	"date": "18 September 2018",
+	"location": "London, UK",
+	"title": "Scikit-learn and Cytora",
+	"tag": "engineering",
+	"links": [
+	    {
+		"name": "slides",
+		"https://docs.google.com/presentation/d/1j-ncck_0B-RD-mSSbV7TbY0NGWIHNzcwjBPuvwtMBsU/edit?usp=sharing"
+	    }
+	]
+    },
+    {
+	"date": "16 July 2018",
+	"location": "London, UK",
+	"title": "Machine learning and fairness for commercial insurance",
+	"tag": "insurance",
+	"links": [
+	    {
+		"name": "slides",
+		"url": "https://drive.google.com/open?id=1Zbgzkc37G1YpzhkkODrBROHPnNe4qCR8"
+	    }
+	]
+    },
+    {
 	"date": "28 April 2018",
 	"location": "London, UK",
 	"title": "Fairness in machine learning",
